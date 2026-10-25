@@ -1,7 +1,3 @@
-"""
-Retro Lens - Real-time Hand Gesture Filter Pipeline
-"""
-
 from dataclasses import dataclass
 import random
 import time
